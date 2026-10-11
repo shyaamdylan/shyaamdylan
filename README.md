@@ -11,7 +11,7 @@ Most of my code is private. Each project below links to a write-up: what it does
     <td width="50%" valign="top">
       <a href="https://github.com/shyaamdylan/astra-lifters"><img src="https://raw.githubusercontent.com/shyaamdylan/astra-lifters/main/assets/card.jpg" alt="Astra Lifters"></a>
       <h3><a href="https://github.com/shyaamdylan/astra-lifters">Astra Lifters</a></h3>
-      A gym tracking app with a social feed. 783 registered users have logged 5,793 workouts. <a href="https://apps.apple.com/gb/app/astra-lifters/id6751715759">On the App Store</a>.
+      A social gym app. 794 registered users have logged 6,577 workouts. <a href="https://apps.apple.com/gb/app/astra-lifters/id6751715759">On the App Store</a>.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/shyaamdylan/relay"><img src="https://raw.githubusercontent.com/shyaamdylan/relay/main/assets/card.jpg" alt="Relay"></a>
@@ -37,7 +37,11 @@ Most of my code is private. Each project below links to a write-up: what it does
       <h3><a href="https://github.com/shyaamdylan/local-business-websites">Local business websites</a></h3>
       21 demo sites for independent businesses around Brentwood and Essex.
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/shyaamdylan/project-stark"><img src="https://raw.githubusercontent.com/shyaamdylan/project-stark/main/preview.png" alt="Project Stark"></a>
+      <h3><a href="https://github.com/shyaamdylan/project-stark">Project Stark</a></h3>
+      A desktop buddy for Mac. Ask it to find a button and it points at it and tells you where it is. The code for this one is public.
+    </td>
   </tr>
 </table>
 
