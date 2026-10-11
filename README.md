@@ -35,7 +35,7 @@ Most of my code is private. Each project below links to a write-up: what it does
     <td width="50%" valign="top">
       <a href="https://github.com/shyaamdylan/local-business-websites"><img src="https://raw.githubusercontent.com/shyaamdylan/local-business-websites/main/assets/card.jpg" alt="Local business websites"></a>
       <h3><a href="https://github.com/shyaamdylan/local-business-websites">Local business websites</a></h3>
-      21 demo sites for independent businesses around Brentwood and Essex.
+      24 demo sites for independent businesses, mostly around Brentwood and Essex.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/shyaamdylan/friday"><img src="https://raw.githubusercontent.com/shyaamdylan/friday/main/assets/card.jpg" alt="Friday"></a>
