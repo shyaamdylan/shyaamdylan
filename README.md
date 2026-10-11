@@ -38,9 +38,9 @@ Most of my code is private. Each project below links to a write-up: what it does
       21 demo sites for independent businesses around Brentwood and Essex.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/shyaamdylan/project-stark"><img src="https://raw.githubusercontent.com/shyaamdylan/project-stark/main/preview.png" alt="Project Stark"></a>
-      <h3><a href="https://github.com/shyaamdylan/project-stark">Project Stark</a></h3>
-      A desktop buddy for Mac. Ask it to find a button and it points at it and tells you where it is. The code for this one is public.
+      <a href="https://github.com/shyaamdylan/friday"><img src="https://raw.githubusercontent.com/shyaamdylan/friday/main/assets/card.jpg" alt="Friday"></a>
+      <h3><a href="https://github.com/shyaamdylan/friday">Friday</a></h3>
+      An AI training companion for the Mac. An expert shows it a task once, and it teaches the rest of the team, pointing at each button as they go.
     </td>
   </tr>
 </table>
